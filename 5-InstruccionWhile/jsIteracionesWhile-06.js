@@ -12,7 +12,7 @@ function mostrar()
 	suma=0;	
 	while (i<5){
 		i=i+1
-		num= prompt ("ingrese el º" + i +"numero ")
+		num= prompt ("Ingrese el º" + i +"numero ")
 		num=parseInt(num)
 		suma= num+suma
 	}

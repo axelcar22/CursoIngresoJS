@@ -15,7 +15,7 @@ function mostrarAumento()
 	cuenta= (sueldo *10 /100);
 	suma = (parseInt) (sueldo + cuenta);
 
-	(document.getElementById( "txtIdResultado").value) = suma;
+	(document.getElementById( "txtIdResultado").value) =suma;
 
 
 }

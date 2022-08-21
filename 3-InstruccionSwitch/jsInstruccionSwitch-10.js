@@ -17,7 +17,7 @@ function mostrar()
 		case "Invierno":
 			switch (destinoIngresado){
 				case "Bariloche":
-					alert ("Se viaja.");
+					alert ("Se viaja!");
 				break;
 				default:
 					alert ("No se viaja.");
@@ -28,7 +28,7 @@ function mostrar()
 			switch(destinoIngresado){
 				case "Cataratas":
 				case "Mar del plata":
-					alert ("Se viaja.");
+					alert ("Se viaja!");
 				break;
 				default:
 					alert ("No se viaja.");
@@ -41,7 +41,7 @@ function mostrar()
 				case "Cataratas":
 				case "Mar del plata":
 				case "Cordoba":
-					alert ("Se viaja.")
+					alert ("Se viaja!")
 				break;
 			}
 		break;
@@ -51,7 +51,7 @@ function mostrar()
 					alert ("No se viaja.");
 				break;
 				default:
-					alert ("Se viaja.");
+					alert ("Se viaja!");
 				break;
 			}
 	}

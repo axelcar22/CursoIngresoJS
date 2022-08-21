@@ -9,16 +9,16 @@ function mostrar(){
 	mesDelAño= document.getElementById("txtIdMes").value;
 	switch (mesDelAño){
 		case "Enero":
-			alert("Que comiences bien el año");
+			alert("Que comiences bien el año!");
 		break
 		case "Marzo":
-			alert("A clases");
+			alert("A clases!");
 		break;
 		case "Julio":
-			alert ("Se vienen las vaciones");
+			alert ("Se vienen las vaciones!");
 		break;
 		case "Diciembre":
-			alert ("Felices fietas");
+			alert ("Felices fietas!");
 		break;
 		default:
 			alert("no hay nada para mostrar");

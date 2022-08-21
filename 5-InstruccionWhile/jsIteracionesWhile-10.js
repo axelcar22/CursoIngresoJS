@@ -39,7 +39,7 @@ function mostrar()
 
 	while(respuesta=="s")
 	{	
-		num=prompt ("ingrese un numero");
+		num=prompt ("Ingrese un numero");
 		num=parseInt(num);
 		if (num>0){
 			contador=contador+1;

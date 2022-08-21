@@ -14,7 +14,7 @@ function mostrarAumento()
 	cuenta1 = (importe * 25 / 100);
 	resta = (importe - cuenta1); 
 
-	(document.getElementById( "txtIdResultado").value) = resta;
+	(document.getElementById( "txtIdResultado").value) =resta;
 
 
 }

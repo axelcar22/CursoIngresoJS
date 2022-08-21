@@ -12,7 +12,7 @@ function mostrar()
 		case 9:
 		case 10:
 		case 11:
-			alert ("es de mañana")
+			alert ("es de mañana!")
 	break;
 	}
 }//FIN DE LA FUNCIÓN

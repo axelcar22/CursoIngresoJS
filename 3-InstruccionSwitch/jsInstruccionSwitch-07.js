@@ -8,16 +8,16 @@ function mostrar()
 
 	switch (destinoIngresado){
 		case "Bariloche":
-			alert ("Se escuenta en el Oeste.");
+			alert ("Se escuenta en el Oeste!");
 		break;
 		case "Cataratas":
-		alert ("Se encuentra en el Norte. ");
+		alert ("Se encuentra en el Norte! ");
 		break;
 		case "Mar del plata":
-			alert ("Se encuentra en el Este.");
+			alert ("Se encuentra en el Este!");
 		break;
 		default:
-			alert ("Se escuentra en el Sur.")
+			alert ("Se escuentra en el Sur!")
 		break;
 	}
 }//FIN DE LA FUNCIÓN

@@ -7,9 +7,9 @@ function mostrar()
 	edad=document.getElementById ("txtIdEdad").value;
 	if(edad>17){
 
-		alert("es mayor de edad");
+		alert("es mayor de edad!");
 	}else {
-		alert ("es menor de edad")
+		alert ("es menor de edad!")
 	}	
 
 }//FIN DE LA FUNCIÓN

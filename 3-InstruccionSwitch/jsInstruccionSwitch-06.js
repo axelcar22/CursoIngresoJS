@@ -18,7 +18,7 @@ function mostrar()
 		case 9:
 		case 10:
 		case 11:	
-			alert ("Es de maniana");
+			alert ("Es de maniana.");
 		break;
 		case 12:
 		case 13:
@@ -28,7 +28,7 @@ function mostrar()
 		case 17:
 		case 18:
 		case 19:
-			alert ("Es de tarde")
+			alert ("Es de tarde.")
 		break;
 		case 20:
 		case 21:
@@ -42,10 +42,10 @@ function mostrar()
 		case 04:
 		case 05:
 		case 06:			
-			alert ("Es de noche")
+			alert ("Es de noche.")
 		break;
 		default:
-			alert ("la hora no existe")
+			alert ("la hora no existe.")
 		break;
 	}	
 }//FIN DE LA FUNCIÓN

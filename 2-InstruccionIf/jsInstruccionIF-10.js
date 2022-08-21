@@ -8,13 +8,13 @@ function mostrar()
 {	let numero;
 	numero= (Math.round (Math.random()*10 )+1);
 	if (numero > 9 ){
-		alert(numero + ", EXELENTE");
+		alert(numero + ", EXELENTE!");
 	}
 	else if (numero >= 4) {
-		alert (numero + ", APROBÓ")	
+		alert (numero + ", APROBÓ!")	
 	}
 	else if (numero <=3){
-		alert (numero + ", Vamos, la proxima se puede")	
+		alert (numero + ", Vamos, la proxima se puede!")	
 	}
 }//FIN DE LA FUNCIÓN
 

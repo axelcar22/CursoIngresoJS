@@ -18,7 +18,7 @@ function Rectangulo ()
 
     cuenta= (largo * ancho) ;
     
-    alert ("se debe usar " + cuenta + " metros de alambre");
+    alert ("Se debe usar " + cuenta + " metros de alambre");
 
 
 }

@@ -12,7 +12,7 @@ function mostrar()
 	//el = es un operador de asignación
 	nombre = "Axel";
 	numero = 7;
-	letra = 'a'
+	letra = 'a' a
 	// comilla doble para palabras o texto, comilla simple para una sola letra
 	+ operador de numero o operador de texto
 	*/

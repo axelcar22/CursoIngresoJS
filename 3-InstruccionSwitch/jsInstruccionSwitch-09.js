@@ -65,6 +65,6 @@ function mostrar()
 				break;
 			}
 	}
-	alert ("es precio es $" + precio)	
+	alert ("El precio es $" + precio)	
 }
 

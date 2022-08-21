@@ -17,7 +17,7 @@ function mostrar()
 
 	do 
 	{
-		numeroIngresado=prompt ("ingrese un numero: ");
+		numeroIngresado=prompt ("Ingrese un numero: ");
 		numeroIngresado=parseInt(numeroIngresado);
 		if (bandera==0){
 			numeroMaximo=numeroIngresado;

@@ -15,7 +15,7 @@ function mostrar()
 	respuesta= "si"
 
 	do {
-		num=prompt ("Ingrese un numero:")
+		num=prompt ("Ingrese un numero: ")
 		num=parseInt(num);
 		if (num > 0)
 		{

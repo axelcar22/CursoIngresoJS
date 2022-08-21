@@ -17,7 +17,7 @@ function FahrenheitCentigrados ()
     temperatura = ((parseInt) (document.getElementById("txtIdTemperatura").value));
     fahrenheit = ((temperatura - 32) * (5/9))
 
-    alert (temperatura + " º fahrenheit, equivalen a " +fahrenheit + "º centigrados");
+    alert (temperatura + " º fahrenheit, equivalen a " +fahrenheit + "º centigrados.");
 
 }
 
@@ -28,7 +28,7 @@ function CentigradosFahrenheit ()
     temperatura = ((parseInt) (document.getElementById("txtIdTemperatura").value));
     centigrados = ((temperatura * 9/5) +32)
 
-    alert (temperatura + " º centigrados, equivalen a " +centigrados +"º fahrenheit")
+    alert (temperatura + " º centigrados, equivalen a " +centigrados +"º fahrenheit.")
 
 	
 }

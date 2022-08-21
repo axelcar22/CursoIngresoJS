@@ -8,11 +8,11 @@ function mostrar()
 	switch (destinoIngresado){
 		case "Bariloche":
 		case "Ushuaia":
-			alert ("Aqui hace frio.");
+			alert ("Aqui hace frio!");
 		break;
 		case "Mar del plata":
 		case "Cataratas":
-			alert ("Aqui hace calor.");
+			alert ("Aqui hace calor!");
 		break;
 	}
 }//FIN DE LA FUNCIÓN

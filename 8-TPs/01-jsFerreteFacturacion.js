@@ -19,7 +19,7 @@ function Sumar ()
 
     suma = precio1 + precio2 +precio3;
 
-    alert ("el total de la suma es " + suma);
+    alert ("El total de la suma es " + suma);
 }
 
 function Promedio () 

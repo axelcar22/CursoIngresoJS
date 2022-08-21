@@ -6,7 +6,7 @@ function mostrar()
 	let num;
 
 	do{
-		num = prompt("ingrese un número entre 0 y 9.");
+		num = prompt("Ingrese un número entre 0 y 9.");
 		num = parseInt(num);
 
 	}while (num < 0 || num>9)

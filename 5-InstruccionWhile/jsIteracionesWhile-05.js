@@ -5,7 +5,7 @@ function mostrar()
 {
 	let sexo;
 	do{
-		sexo = prompt("ingrese f ó m .");	
+		sexo = prompt("Ingrese f ó m .");	
 	}while (sexo != "f" && sexo != "m")
 	
 	document.getElementById ("txtIdSexo").value=sexo

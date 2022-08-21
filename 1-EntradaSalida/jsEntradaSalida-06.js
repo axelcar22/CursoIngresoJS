@@ -16,7 +16,7 @@ function sumar()
 	
 	resultado=(primerNumero + segundoNumero);
 
-	alert("la suma de ambos numeros es " + resultado);
+	alert("la suma de ambos numeros es: " + resultado);
 }
 
 /*

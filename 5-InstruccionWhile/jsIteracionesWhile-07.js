@@ -18,7 +18,7 @@ function mostrar()
 
 	while (respuesta=='s')
 	{
-		num= prompt ("ingrese un numero ");
+		num= prompt ("Ingrese un numero ");
 		num= parseFloat (num);
 		i=i+1;
 		suma= suma+num;

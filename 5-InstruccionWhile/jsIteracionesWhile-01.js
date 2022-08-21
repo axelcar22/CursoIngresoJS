@@ -11,7 +11,7 @@ function mostrar()
 	while (numero < 10)
 	{
 		numero= numero + 1
-		alert ("numero " + numero)
+		alert ("Numero " + numero)
 	}
 
 }

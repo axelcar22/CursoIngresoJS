@@ -64,6 +64,6 @@ function CalcularPrecio ()
     cuenta2 = (precioConDescuento *10/100)
     ingresosBrutos= precioConDescuento + cuenta2 
     if (precioConDescuento > 120){
-    alert ("Usted pago $ " + ingresosBrutos +" de IIBB." );
+    alert ("Usted pago $ " + ingresosBrutos +" de IIBB!." );
     }
 }

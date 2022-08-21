@@ -19,7 +19,7 @@ function sumar()
 
 	sumaresultado = (numero1 + numero2);
 
-	alert ("el resultado de la suma es " + sumaresultado);	
+	alert ("el resultado de la suma es: " + sumaresultado);	
 }
 
 function restar()

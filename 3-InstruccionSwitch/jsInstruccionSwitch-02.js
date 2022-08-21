@@ -11,7 +11,7 @@ function mostrar()
 	switch (mesDelAño){
 		case "Julio":
 		case "Agosto":
-			alert ("Abrigate que hace frio.");
+			alert ("Abrigate que hace frio!");
 		break;
 		case "Septiembre":
 		case "Octubree":	
